@@ -1,0 +1,13 @@
+numpy==1.26.4
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+PyPDF2
+faiss-cpu==1.7.4
+transformers
+sentence-transformers
+groq
+python-dotenv
+pyarrow==14.0.2
+streamlit
